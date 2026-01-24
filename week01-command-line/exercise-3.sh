@@ -8,4 +8,4 @@
 # Output the number of lines to STDOUT.
 
 # The following line is a placeholder. replace it with your solution
-echo 5
+grep -c "virginica" iris.csv

@@ -14,4 +14,4 @@ done > source.txt
 
 # now sort the file and store the sorted list in the file `sorted.txt`
 # The following line is a placeholder. replace it with your solution
-cp source.txt sorted.txt
+sort -n source.txt > sorted.txt

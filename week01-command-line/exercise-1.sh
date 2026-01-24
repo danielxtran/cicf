@@ -8,4 +8,4 @@
 # starting with the letter 'e'.
 # Keep the `-1` option, which tells `ls` to list each file on its line.
 
-ls -1
+ls e* -1
